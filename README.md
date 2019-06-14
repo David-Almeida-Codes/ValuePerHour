@@ -1,5 +1,4 @@
 # ValuePerHour
 Exercicio proposto: 
 
-Ler os dados de um trabalhador com N contratos (N fornecido pelo usuário). Depois, solicitar
-do usuário um mês e mostrar qual foi o salário do funcionário nesse mês.
+![exec](https://user-images.githubusercontent.com/29803311/59475558-88ffab80-8e22-11e9-8582-f0bcf0201461.png)
