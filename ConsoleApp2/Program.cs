@@ -47,7 +47,7 @@ namespace ConsoleApp2
             int year = int.Parse(monthAndYear.Substring(3));
             Console.WriteLine("Name: " + worker.Name);
             Console.WriteLine("Departament: " + worker.Departament.Name);
-            Console.WriteLine("Income for: " + monthAndYear + ": " + worker.Income(year, month), CultureInfo.InvariantCulture);
+            Console.WriteLine("Income for: " + monthAndYear + ": " + worker.Income(year, month).ToString("F2", CultureInfo.InvariantCulture));
 
         }
     }
